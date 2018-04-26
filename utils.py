@@ -1,0 +1,8 @@
+amazement = [1, 1, 0]
+tenderness = [1, 0, 0]
+nostalgia = [0, 1, 1]
+calmness = [1, 0, 0]
+power = [1, 0, 1]
+joy = [1, 1, 1]
+tension = [0, 1, 0]
+sadness = [0, 0, 0]
