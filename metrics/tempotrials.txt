@@ -1,7 +1,7 @@
 genre, trial, bpm
-electro, 1, 
-pop, 1, 
-out, 1, 
+electro, 1, 161.50
+pop, 1, 92.29
 classical, 2, 172.27
 electro, 2, 123.05
-out, 2, 
+rock, 3, 112.35
+electro, 3, 103.36
