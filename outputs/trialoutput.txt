@@ -1,0 +1,12 @@
+OUT2:
+
+WARNING:tensorflow:From C:\Users\Vinitra\Anaconda3\lib\site-packages\tensorflow\python\util\tf_should_use.py:107: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Started optimization.
+INFO:tensorflow:Optimization terminated with:
+  Message: b'STOP: TOTAL NO. of ITERATIONS EXCEEDS LIMIT'
+  Objective function value: 378.489929
+  Number of iterations: 301
+  Number of functions evaluations: 319
+Final loss: 378.49
